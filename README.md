@@ -7,7 +7,7 @@ used [dagger hilt, coroutines, Mvvm,Channel,flow, clean architecture, clean code
 
 # Screenshots
 
-<video src="https://user-images.githubusercontent.com/67482991/160302749-9441fb8f-c965-481c-b6cb-1938a7a30b45.mp4" width="200">&nbsp;
+<demo src="https://user-images.githubusercontent.com/67482991/160302749-9441fb8f-c965-481c-b6cb-1938a7a30b45.mp4" width="200">&nbsp;
 
 
 
