@@ -1,0 +1,24 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <!-- Base application theme. -->
+    <style name="Theme.LocationHelper" parent="Theme.MaterialComponents.Light.NoActionBar">
+        <!-- Primary brand color. -->
+        <item name="colorPrimary">@color/primaryColor</item>
+        <item name="colorPrimaryVariant">@color/secondaryColor</item>
+        <item name="colorOnPrimary">@color/white</item>
+        <!-- Secondary brand color. -->
+        <item name="colorSecondary">@color/primaryColor</item>
+        <item name="colorSecondaryVariant">@color/secondaryColor</item>
+        <item name="colorOnSecondary">@color/white</item>
+        <!-- Status bar color. -->
+        <item name="android:statusBarColor" tools:targetApi="l">?attr/colorPrimary</item>
+        <!-- Customize your theme here. -->
+        <!-- Primary brand color. -->
+        <!-- Primary brand color. -->
+        <item name="colorPrimaryDark">@color/primaryColor</item>
+        <!-- Secondary brand color.-->
+        <item name="android:colorBackground">@color/white</item>
+        <item name="statusBarBackground">@color/white</item>
+        <item name="statusBarForeground">@color/white</item>
+        <!-- Customize your theme here. -->
+    </style>
+</resources>

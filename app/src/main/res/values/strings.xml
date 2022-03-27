@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Location Helper</string>
+    <string name="read_permmission_location_message_permissions">you need to accept location permissions to use this Option</string>
+
+</resources>
